@@ -1,2 +1,6 @@
 # for-of-loops
-For..of loops in JS 
+
+const iterable = [0, 1, 2];
+for (let i of iterable) {
+ console.log(i);
+}
